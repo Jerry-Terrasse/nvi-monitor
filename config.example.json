@@ -1,0 +1,7 @@
+{
+    "thresh": 70,
+    "email_sender": "",
+    "smtp_key": "",
+    "interval": 10,
+    "queue_size": 6
+}
